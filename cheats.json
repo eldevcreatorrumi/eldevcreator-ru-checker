@@ -107,7 +107,7 @@
   ],
   "banned_clients": [
     "BadlionClient", "FeatherLauncher", "LunarClient", "LabyMod",
-    "CheatBreaker", "Hyperium", "BLC", "Lunar", "Laby", "Haruka"
+    "CheatBreaker", "Hyperium", "BLC", "Lunar", "Laby", "Haruka", "ExLoader"
   ],
   "banned_browsers": [
     "chrome", "firefox", "edge", "opera", "safari", "brave", "vivaldi"
