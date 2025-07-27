@@ -1,0 +1,19 @@
+{
+    "version": "2.0.0",
+    "release_date": "2025-07-27",
+    "download_url": "https://github.com/eldevcreatorrumi/eldevcreator-ru-checker/releases/latest",
+    "changelog": [
+        "Добавлен десктопный интерфейс",
+        "Автообновление с GitHub",
+        "LastActivityView анализ",
+        "ShellBag анализ",
+        "Everything поиск"
+    ],
+    "features": {
+        "desktop_app": true,
+        "auto_update": true,
+        "system_activity": true,
+        "shellbag_analysis": true,
+        "everything_search": true
+    }
+} 
